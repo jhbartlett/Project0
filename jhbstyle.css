@@ -1,0 +1,49 @@
+div {
+  font-size: 22px; }
+  div p {
+    color: black; }
+  div ul {
+    color: red; }
+  div ol {
+    color: orange; }
+
+#top {
+  text-align: center; }
+
+#middle {
+  font-size: 18px;
+  text-align: center; }
+
+#bottom {
+  font-size: 14px;
+  text-align: center; }
+
+.container {
+  font-size: 18px; }
+
+.row > div {
+  padding: 20px;
+  background-color: orange;
+  border: 2px solid black; }
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 30%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: left; }
+
+th {
+  background-color: orange; }
+
+img {
+  padding: 2px;
+  border-radius: 15px 50px 350px 5px; }
+
+/*# sourceMappingURL=jhbstyle.css.map */
